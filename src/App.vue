@@ -1,18 +1,19 @@
-<script setup lang="ts">
-const count = ref(5)
+<template>
+  <div />
+</template>
 
-const create = () => {
-    parent.postMessage({ pluginMessage: { type: 'create-rectangles', count: count.value } }, '*')
-}
+<script lang="ts">
+import { defineComponent } from 'vue'
 
-const cancel = () => {
-    parent.postMessage({ pluginMessage: { type: 'cancel' } }, '*')
-}
+export default defineComponent({
+  setup (props, context) {
+    return {
+
+    }
+  },
+})
 </script>
 
-<template>
-    <h2 class="color-red">Rectangle Creator</h2>
-    <p class="p-10px">Count: <input v-model="count" /></p>
-    <button @click="create">Create</button>
-    <button @click="cancel">Cancel</button>
-</template>
+<style scoped>
+
+</style>
