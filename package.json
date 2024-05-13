@@ -1,6 +1,6 @@
 {
   "name": "figma-plugin-vue3-template",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "type": "module",
   "author": "Yobrave Lee <yobrave@outlook.com>",
   "license": "MIT",
