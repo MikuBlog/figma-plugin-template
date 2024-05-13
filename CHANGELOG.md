@@ -1,3 +1,12 @@
+## [0.0.6](https://github.com/chinanf-boy/figma-plugin-vue3-template/compare/v0.0.5...v0.0.6) (2024-05-13)
+
+
+### Bug Fixes
+
+* 修复别名路径 ([e6be486](https://github.com/chinanf-boy/figma-plugin-vue3-template/commit/e6be4866a0cdde7c223870096ac35635b1b0cea6))
+
+
+
 ## [0.0.5](https://github.com/chinanf-boy/figma-plugin-vue3-template/compare/v0.0.4...v0.0.5) (2024-05-13)
 
 
