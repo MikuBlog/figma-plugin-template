@@ -1,3 +1,12 @@
+## [0.0.7](https://github.com/chinanf-boy/figma-plugin-vue3-template/compare/v0.0.6...v0.0.7) (2024-05-13)
+
+
+### Features
+
+* 更新配置 ([89a86d4](https://github.com/chinanf-boy/figma-plugin-vue3-template/commit/89a86d4e1ea1fd33411a0bf687d510dbcf802d74))
+
+
+
 ## [0.0.6](https://github.com/chinanf-boy/figma-plugin-vue3-template/compare/v0.0.5...v0.0.6) (2024-05-13)
 
 
