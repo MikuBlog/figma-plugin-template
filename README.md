@@ -10,6 +10,7 @@
 
 - [x] vue3
 - [x] pinia
+- [x] unocss
 - [x] vite
 - [x] typescript
 - [x] eslint
